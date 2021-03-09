@@ -20,5 +20,5 @@ E com essa transição aprendi muito:
 
 <br />
 
-<a href="https://www.linkedin.com/in/dev-fredericosetra/"> <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/LinkedIn_Logo.svg/1280px-LinkedIn_Logo.svg.png" height="50" width="210" alt="mackysig" /></a></p><br>
+<a href="https://www.linkedin.com/in/dev-fredericosetra/"  target="_blank"> <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/LinkedIn_Logo.svg/1280px-LinkedIn_Logo.svg.png" height="50" width="210" alt="mackysig"/></a>
 
