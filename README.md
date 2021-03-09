@@ -12,7 +12,7 @@ E com essa transição aprendi muito:
 - Para fazer o que amamos precisamos mergulhar de cabeça, e atualmente estou respirando programação!
   <br /><br />
 
-### “Um sonho não vira realidade a partir de mágica. Você precisa de suor, determinação e trabalho duro”
+### “Um sonho não vira realidade a partir de mágica. Você precisa de suor, determinação e trabalho duro.”
 
 <br />
 
@@ -20,5 +20,5 @@ E com essa transição aprendi muito:
 
 <br />
 
-<a href="https://www.linkedin.com/in/dev-fredericosetra/"  target="_blank"> <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/LinkedIn_Logo.svg/1280px-LinkedIn_Logo.svg.png" height="50" width="210" alt="mackysig"/></a>
+<a href="https://www.linkedin.com/in/dev-fredericosetra/" target="_blank"> <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/LinkedIn_Logo.svg/1280px-LinkedIn_Logo.svg.png" height="50" width="210" alt="mackysig"/></a>
 
