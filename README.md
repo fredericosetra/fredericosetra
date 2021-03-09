@@ -1,10 +1,24 @@
- ![Banner de apresentação](https://github.com/fredericosetra/fredericosetra/blob/main/img/github%20note.png?raw=true)
+![Banner de apresentação](https://github.com/fredericosetra/fredericosetra/blob/main/img/github%20note.png?raw=true)
 
-### Olá Sou o Fred, prazer! 👋
+<h1 style="text-align: center;"> Olá é um prazer te conhecer! 👋 </h1>
 
-## Find me around the web 🌎: <img align="left" width="350" height="350" src="https://github.com/fredericosetra/fredericosetra/blob/main/img/octocat-single.gif?raw=true"></a>
-- Learning in public on <a href="https://www.twitch.tv/blacktechdiva">Twitch</a> or <a href="https://www.monica.dev">monica.dev</a> 📹 ✍🏾
-- Tinkering with interactions on <a href="https://codepen.io/m0nica"> Codepen</a> 🏓
-- Sharing updates on <a href="https://www.linkedin.com/in/monicampowell/">LinkedIn</a> 💼
+Em 2019 me tornei programador focado em programação para Web e tenho descoberto um mundo incrível através dessa área.
 
-,
+E com essa transição aprendi muito:
+
+- Que para mudar para programação exigiria muito de mim (mudar assusta, mas ficar sem realizar o que ama é pior ainda);
+- Lidar com críticas exige maturidade (mudar gera impacto nas pessoas ao seu redor e nem todas estão preparadas para ver as coisas da mesma maneira que você);<br />
+
+- Para fazer o que amamos precisamos mergulhar de cabeça, e atualmente estou respirando programação!
+  <br /><br />
+
+### “Um sonho não vira realidade a partir de mágica. Você precisa de suor, determinação e trabalho duro”
+
+<br />
+
+## Você pode me encontrar: <img align="left" width="250" height="250" src="https://github.com/fredericosetra/fredericosetra/blob/main/img/octocat-single.gif?raw=true">
+
+<br />
+
+<a href="https://www.linkedin.com/in/dev-fredericosetra/"> <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/LinkedIn_Logo.svg/1280px-LinkedIn_Logo.svg.png" height="50" width="210" alt="mackysig" /></a></p><br>
+
